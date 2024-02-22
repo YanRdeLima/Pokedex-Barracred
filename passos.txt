@@ -3,3 +3,13 @@ Configurar o GIT local
 git config --global user.name (YanRdeLima)
 git config --global user.email (kaleoyan20022023@gmail.com) 
 
+Criar um projeto:
+
+dotnet new mvc -o Pokedex
+
+Executar um projeto:
+
+dotnet watch run
+
+
+
